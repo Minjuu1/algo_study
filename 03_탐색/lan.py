@@ -22,4 +22,4 @@ while (left <= right):
     else:
         right = mid - 1
 
-print(left)
+print(right)
